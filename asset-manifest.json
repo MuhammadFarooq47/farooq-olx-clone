@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/farooq-olx-clone/static/css/main.a76e3962.chunk.css",
+    "main.js": "/farooq-olx-clone/static/js/main.54266390.chunk.js",
+    "main.js.map": "/farooq-olx-clone/static/js/main.54266390.chunk.js.map",
+    "runtime-main.js": "/farooq-olx-clone/static/js/runtime-main.b44e00d2.js",
+    "runtime-main.js.map": "/farooq-olx-clone/static/js/runtime-main.b44e00d2.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/farooq-olx-clone/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.ba37e3f2.chunk.js": "/farooq-olx-clone/static/js/2.ba37e3f2.chunk.js",
+    "static/js/2.ba37e3f2.chunk.js.map": "/farooq-olx-clone/static/js/2.ba37e3f2.chunk.js.map",
+    "index.html": "/farooq-olx-clone/index.html",
+    "precache-manifest.334b0699f5b826a471dbd10efb0d7b3e.js": "/farooq-olx-clone/precache-manifest.334b0699f5b826a471dbd10efb0d7b3e.js",
+    "service-worker.js": "/farooq-olx-clone/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/farooq-olx-clone/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.a76e3962.chunk.css.map": "/farooq-olx-clone/static/css/main.a76e3962.chunk.css.map",
+    "static/js/2.ba37e3f2.chunk.js.LICENSE.txt": "/farooq-olx-clone/static/js/2.ba37e3f2.chunk.js.LICENSE.txt",
+    "static/media/appstore.png": "/farooq-olx-clone/static/media/appstore.38cffd8a.png",
+    "static/media/banner.PNG": "/farooq-olx-clone/static/media/banner.5f4d9423.PNG",
+    "static/media/banner2.jpg": "/farooq-olx-clone/static/media/banner2.deae1d9c.jpg",
+    "static/media/bike.jpg": "/farooq-olx-clone/static/media/bike.f5297827.jpg",
+    "static/media/bmw.jpg": "/farooq-olx-clone/static/media/bmw.1cec96ec.jpg",
+    "static/media/computer.jpg": "/farooq-olx-clone/static/media/computer.4e538ab7.jpg",
+    "static/media/house.jpg": "/farooq-olx-clone/static/media/house.b36b33b6.jpg",
+    "static/media/laptop.jpg": "/farooq-olx-clone/static/media/laptop.88a3ea25.jpg",
+    "static/media/macbook.jpg": "/farooq-olx-clone/static/media/macbook.242f0e40.jpg",
+    "static/media/mobile.jpg": "/farooq-olx-clone/static/media/mobile.5be3b4d2.jpg",
+    "static/media/playstore.png": "/farooq-olx-clone/static/media/playstore.e38ed854.png",
+    "static/media/shoe.jpg": "/farooq-olx-clone/static/media/shoe.53e84377.jpg",
+    "static/media/watch.jpg": "/farooq-olx-clone/static/media/watch.4889ae22.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b44e00d2.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.ba37e3f2.chunk.js",
+    "static/css/main.a76e3962.chunk.css",
+    "static/js/main.54266390.chunk.js"
+  ]
+}
