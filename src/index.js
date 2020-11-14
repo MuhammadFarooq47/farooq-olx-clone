@@ -3,11 +3,20 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-
+import {StateProvider} from './StateProvider';
+import reducer, {initialState} from './reducer';
+import {BrowserRouter} from 'react-router-dom';
+ 
 ReactDOM.render(
-  <React.StrictMode>
+  // <React.StrictMode>
+  <BrowserRouter>
+    <StateProvider reducer={reducer} initialState={initialState}>
     <App />
-  </React.StrictMode>,
+    </StateProvider>
+  </BrowserRouter>
+  
+    ,
+  // </React.StrictMode>,
   document.getElementById('root')
 );
 

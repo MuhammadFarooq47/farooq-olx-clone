@@ -1,0 +1,102 @@
+/* body{
+    background: #ECE9E6;  
+    background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);  
+    background: linear-gradient(to right, #FFFFFF, #ECE9E6); 
+    
+    } */
+    .App {
+      text-align: center;
+      
+    }
+  
+    .main{
+      border: 1px solid lightgray;
+      border-radius: 5px;
+      width: 340px;
+      height: 430px;
+      margin: 70px auto;
+    }
+
+    
+    #logo{
+      width: 150px;
+      height: auto;
+      margin-top: 30px;
+     
+    }
+    #h3{
+      color: #003034 ;
+      /* margin-top: -10px; */
+      border-top: 7px solid #3fdcd5;
+      border-bottom: 7px solid #3d77f5;
+      border-left: 7px solid #f8cd45;
+      border-right: 7px solid #f8cd45;
+      font-weight: bold;
+      
+      box-shadow: 2px 2px 7px black;
+      width: 250px;
+      height: auto;
+      padding: 10px;
+      margin: auto;
+      text-align: center;
+      border-radius: 10px;
+    }
+    
+    #btn{
+      margin:20px auto 20px 15px;
+      background-color: white ;
+      font-size: 16px ;
+      font-weight: bold;
+      color: #003034;
+      border-radius: 50px;
+      width: 110px;
+      height: 50px;
+      outline: none;
+      border-top: 7px solid #3fdcd5;
+      border-bottom: 7px solid #3d77f5;
+      border-left: 7px solid #f8cd45;
+      border-right: 7px solid #f8cd45;
+      padding: auto;
+      text-align: center;
+      box-shadow: 1px 1px 10px black;
+    }
+    
+    #h1{
+      color: #1d509e;
+    }
+    .app_form{
+      padding: 50px 20px;
+     position: fixed;
+     bottom: 0;
+     z-index: 1;
+     background-color: #e9e9eba2;
+     width: 90%;
+     margin: 10px;
+     
+    }
+    
+    .app_formControl{
+      display: flex !important;
+      flex-direction: row !important;
+    }
+    
+    .app_input{
+      flex: 1;
+    }
+    .app_iconButton{
+      flex: 0;
+    }
+    
+    .Msgs{
+      border-radius: 50px !important;
+    }
+    
+    .profile_pic{
+      width: 60px;
+      height: auto;
+      border-radius: 100px;
+      margin-top: 15px;
+    }
+    .profile__pic{
+      margin:auto;
+    }

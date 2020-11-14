@@ -1,0 +1,31 @@
+.bottom_menu{
+  display: flex;
+  background-color: rgb(255,255,255);
+  width: 100%;
+  min-height: 30px;
+  padding: 10px;
+  margin-left: 5px;
+  
+}
+.all_categries{
+  display: flex;
+  flex: auto;
+}
+
+.arrow_key{
+size: 50;
+margin-top: 7px;
+margin-left: -5px;
+}
+.item{
+  color: #2F2F34 !important;
+  text-decoration: none;
+  padding: 5px;
+  margin:5px 8px;
+}
+
+.item:hover{
+  color: rgb(86, 151, 153) !important;
+}
+
+

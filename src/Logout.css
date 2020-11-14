@@ -1,0 +1,31 @@
+.user_email{
+    font-size: 10px;
+    color: gray;
+    margin: 5px 10px;
+    font-weight: bold;
+}
+.google_data{
+    display: flex;
+}
+.google_email{
+    font-size: 10px;
+    color: #003034;
+    margin: 5px 20px;
+    font-weight: bold;
+}
+.user_photo{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.logout{
+    font-size: 16px;
+    border: none;
+    outline: none;
+    background-color:  #ececec;
+    color: #003034 !important;
+    font-weight: bold;
+    margin: auto 5px;
+    padding: 2px;
+    border-radius: 5px;
+}

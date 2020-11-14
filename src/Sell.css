@@ -1,0 +1,35 @@
+.details{
+  border: 1px solid lightgray;
+  padding: 5px;
+
+}
+
+.details>label{
+  font-size: 16px !important;
+  font-weight: 500;
+}
+
+.details>input{
+  width: 50% !important;
+  margin: auto auto !important;
+}
+
+.description{
+  width: 50% !important;
+  margin: auto auto !important;
+}
+.card>span{
+  font-size: 12px !important;
+}
+
+.btn{
+    background-color: #c8f8f6 !important;
+    border: 1px solid #19a6ac !important;
+    color: #19a6ac !important;
+    margin-bottom: 20px;
+}
+
+/* .main{
+  margin: 10px auto !important;
+} */
+
